@@ -35,17 +35,16 @@ Une page interactive pour découvrir le métier d'**ingénieur en cybersécurit�
 - ♿ Accessibilité : lien d'évitement, attributs ARIA, respect de `prefers-reduced-motion`
 
 ## 📁 Structure du projet
-shiro14v.github.io/
-
-    ├── index.html          ← page principale
-    ├── README.md           ← ce fichier
-    └── assets/ 
-        ├── css/
-        │   └── style.css   ← toute la présentation
-        ├── js/
-        │   └── script.js   ← mode sombre + animation
-        └── images/
-            └── info.jpeg   ← illustration du bandeau
+    shiro14v.github.io/
+        ├── index.html          ← page principale
+        ├── README.md           ← ce fichier
+        └── assets/ 
+            ├── css/
+            │   └── style.css   ← toute la présentation
+            ├── js/
+            │   └── script.js   ← mode sombre + animation
+            └── images/
+                └── info.jpeg   ← illustration du bandeau
 
 ## 🚀 Consulter le site
 
